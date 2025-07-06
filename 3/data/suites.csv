@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5852","Verify expected widget","","Sun Jul 06 06:07:04 GMT 2025","failed","Sun Jul 06 06:07:10 GMT 2025","","Dashboard Feature","Verify expected widget",""
+"","7718","Create Skill","","Sun Jul 06 06:06:57 GMT 2025","passed","Sun Jul 06 06:07:04 GMT 2025","","Skill Features","Create Skill",""
+"","8581","Create Skill","","Sun Jul 06 06:06:48 GMT 2025","passed","Sun Jul 06 06:06:57 GMT 2025","","Skill Features","Create Skill",""
+"","7951","Create Skill","","Sun Jul 06 06:06:49 GMT 2025","passed","Sun Jul 06 06:06:57 GMT 2025","","Skill Features","Create Skill",""
