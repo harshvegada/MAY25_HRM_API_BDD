@@ -136,6 +136,9 @@
                     <includes>
                         <include>**/TestScenario.java</include>
                     </includes>
+                    <systemPropertyVariables>
+                        <env>${environment}</env>
+                    </systemPropertyVariables>
                     <properties>
                         <configurationParameters>
                             cucumber.execution.parallel.enabled=true

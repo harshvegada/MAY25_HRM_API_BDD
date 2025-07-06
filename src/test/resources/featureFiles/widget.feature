@@ -1,4 +1,4 @@
-@widget
+@widget @regression
 Feature: Dashboard Feature
 
   Background: Token Generation

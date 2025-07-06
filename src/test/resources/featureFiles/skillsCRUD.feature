@@ -1,4 +1,4 @@
-@skill
+@skill @regression
 Feature: Skill Features
 
   @JIRA-12345 @docString
