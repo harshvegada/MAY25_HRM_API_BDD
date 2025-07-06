@@ -21,5 +21,4 @@ Feature: Dashboard Feature
       | Leave Taken on Each Calendar Month Over the Years |
       | Headcount by Location                             |
       | Annual Basic Payment by Location                  |
-      | Annual Basic Payment by Location                  |
 
